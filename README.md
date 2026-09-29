@@ -99,4 +99,4 @@ Contributions are welcome:
 3. Update the relevant SQL notes and this README when behavior or setup changes.
 4. Open a pull request describing the exercise or correction and how you tested it.
 
-Please do not commit credentials, local configuration, or generated database files from unrelated environments. See the repository's [license file](LICENSE) for licensing terms when one is provided.
+Please do not commit credentials, local configuration, or generated database files from unrelated environments.
